@@ -2,9 +2,7 @@
 
 ## 🚀 Project Overview
 
-This project focuses on analyzing product demand and inventory availability using **SQL Server** and **Power BI**. Data from multiple sources was imported into SQL Server, integrated using SQL joins, and transformed into a consolidated table for reporting and visualization.
-
-The dashboard helps monitor inventory levels, identify demand patterns, and support data-driven inventory planning.
+This project analyzes product demand and inventory availability using SQL Server and Power BI. Product and inventory datasets were integrated using SQL joins, transformed into a consolidated dataset, and visualized through an interactive dashboard. The solution helps track inventory levels, identify demand trends, and generate insights that support data-driven inventory planning and business decision-making.
 
 ---
 

@@ -24,12 +24,12 @@ This project analyzes product demand and inventory availability using SQL Server
 
 ## 🔄 Project Workflow
 
-1. 📥 Imported product and inventory datasets into SQL Server.
-2. 🔗 Joined both datasets using **Product_ID**.
-3. 🏗️ Created a consolidated table (**dbo.new_table**) for analysis.
-4. 📈 Performed SQL-based data validation and aggregation.
-5. 🔌 Connected SQL Server data to Power BI.
-6. 📊 Built an interactive dashboard for business insights.
+*  Imported product and inventory datasets into SQL Server.
+*  Joined both datasets using **Product_ID**.
+*  Created a consolidated table (**dbo.new_table**) for analysis.
+*  Performed SQL-based data validation and aggregation.
+*  Connected SQL Server data to Power BI.
+*  Built an interactive dashboard for business insights.
 
 ---
 

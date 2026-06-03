@@ -35,17 +35,17 @@ This project analyzes product demand and inventory availability using SQL Server
 
 ## 🧠 SQL Analysis Performed
 
-✔️ Product-wise demand analysis
+* Product-wise demand analysis
 
-✔️ Average demand calculation
+* Average demand calculation
 
-✔️ Inventory availability analysis
+* Inventory availability analysis
 
-✔️ Product pricing analysis
+* Product pricing analysis
 
-✔️ Demand trend analysis
+* Demand trend analysis
 
-✔️ Aggregate reporting using SQL functions
+* Aggregate reporting using SQL functions
 
 ---
 
@@ -134,6 +134,4 @@ README.md
 
 ## ⭐ Project Impact
 
-This project is part of my Data Analytics portfolio and demonstrates how data from multiple sources can be integrated using SQL Server and transformed into actionable business insights through Power BI.
-
-The analysis helps identify product demand patterns, monitor inventory availability, and support data-driven inventory planning and decision-making.
+This project is part of my Data Analytics portfolio and demonstrates an end-to-end analytics workflow using SQL Server and Power BI. By integrating data from multiple sources, performing SQL-based data transformation and analysis, and building interactive dashboards, the project provides actionable insights into product demand and inventory availability, enabling data-driven inventory planning, monitoring, and business decision-making.
